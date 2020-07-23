@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Hey, I'm Rubem! 👋
 
-👨‍💻 Fullstack Developer
+👨‍💻 Fullstack Developer <br>
 💻 Ruby on Rails, React.js, React Native, Node.js <br>
 ⚡ Agile and Scrum <br> 
 📱 Developing UI / UX just for fun <br>
