@@ -1,25 +1,9 @@
+## :man_technologist: Rubem Vasconcelos
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rubemfsv)](https://github.com/rubemfsv)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubemfsv/)](https://www.linkedin.com/in/rubemfsv/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubemfsv15@gmail.com)](mailto:rubemfsv15@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rubemfsv)](https://www.instagram.com/rubemfsv) 
 
-<!--
-**rubemfsv/rubemfsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### Hey, I'm Rubem! 👋
 
 👨‍💻 Fullstack Developer <br>
 💻 Ruby on Rails, React.js, React Native, Node.js <br>
@@ -29,12 +13,4 @@ Here are some ideas to get you started:
 
 ### What I'm working on 👨‍💻
 
-💻 Software Engineer @ [ITEC](https://www.twitch.tv/lucas_montano) <br>
-
-
-### Find me elsewhere 🌎
-
-🚀 [Site](http://rubemfsv.github.io/) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/rubemfsv/) <br>
-🐦 [Twitter](https://twitter.com/rubemfsv) <br>
-📸 [Instagram](https://instagram.com/rubemfsv) <br>
+💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
