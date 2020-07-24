@@ -6,9 +6,10 @@
 
 
 👨‍💻 Fullstack Developer <br>
-💻 Ruby on Rails, React.js, React Native, Node.js <br>
+💻 Ruby on Rails, React.js <br>
 ⚡ Agile and Scrum <br> 
 📱 Developing UI / UX just for fun <br>
+🚀 Studying Fluter, React Native and Node.js <br>
 🇧🇷 Maceió, Brazil <br>
 
 ### What I'm working on 👨‍💻
