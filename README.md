@@ -5,13 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rubemfsv)](https://www.instagram.com/rubemfsv) 
 
 
-👨‍💻 Fullstack Developer <br>
+👨‍💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
 💻 Ruby on Rails, React.js <br>
 ⚡ Agile and Scrum <br> 
 📱 Developing UI / UX just for fun <br>
 🚀 Studying Fluter, React Native and Node.js <br>
 🇧🇷 Maceió, Brazil <br>
-
-### What I'm working on 👨‍💻
-
-💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
