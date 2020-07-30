@@ -8,6 +8,5 @@
 👨‍💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
 💻 Ruby on Rails, React.js <br>
 ⚡ Agile and Scrum <br> 
-📱 Developing UI / UX just for fun <br>
-🚀 Studying Fluter, React Native and Node.js <br>
+📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
