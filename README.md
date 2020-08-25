@@ -6,7 +6,7 @@
 
 
 👨‍💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
-💻 Ruby on Rails, React.js, React Native, NodeJS, Typescript <br>
+💻 React.js, React Native, Ruby on Rails,  NodeJS, Typescript <br>
 ⚡ Agile and Scrum <br> 
 📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
