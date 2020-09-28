@@ -10,3 +10,5 @@
 ⚡ Agile and Scrum <br> 
 📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubemfsv&show_icons=true&theme=algolia&count_private=true)
