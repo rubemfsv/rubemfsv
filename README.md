@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rubemfsv)](https://www.instagram.com/rubemfsv) 
 
 
-👨‍💻 Software Engineer @ [ITEC](http://www.itec.al.gov.br/) <br>
+👨‍💻 Software Engineer @ [W2Bit](https://www.w2bit.com/) <br>
 💻 React.js, React Native, Ruby on Rails,  NodeJS, Typescript <br>
 ⚡ Agile and Scrum <br> 
 📱 UI / UX Enthusiast <br>
