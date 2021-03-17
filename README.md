@@ -5,8 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rubemfsv)](https://www.instagram.com/rubemfsv) 
 
 
-👨‍💻 Software Engineer @ [W2Bit](https://www.w2bit.com/) <br>
+👨‍💻 Software Engineer @ [Khube](https://www.khube.com.br/) <br>
 💻 React.js, React Native, Ruby on Rails,  NodeJS, Typescript <br>
+:heart: Clean Architecture and Clean Code <br>
 ⚡ Agile and Scrum <br> 
 📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
