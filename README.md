@@ -12,4 +12,6 @@
 📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
 
+Currently, most time on BitBucket. 
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubemfsv&show_icons=true&theme=algolia&count_private=true)
