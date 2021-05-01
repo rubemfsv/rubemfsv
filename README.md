@@ -5,13 +5,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rubemfsv)](https://www.instagram.com/rubemfsv) 
 
 
-👨‍💻 Software Engineer @ [Khube](https://www.khube.com.br/) <br>
-💻 React.js, React Native, Ruby on Rails,  NodeJS, Typescript <br>
+👨‍💻 Software Engineer @ [Pontomais](https://www.pontomais.com.br/) <br>
+💻 React.js, React Native, Angular, Ruby on Rails, NodeJS, Typescript <br>
 :heart: Clean Architecture and Clean Code <br>
 ⚡ Agile and Scrum <br> 
 📱 UI / UX Enthusiast <br>
 🇧🇷 Maceió, Brazil <br>
-
-Currently, most time on BitBucket. 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubemfsv&show_icons=true&theme=algolia&count_private=true)
