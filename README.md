@@ -17,5 +17,3 @@
 Personal account github stats: <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubemfsv&show_icons=true&theme=algolia&count_private=true)
 
-Professional account github stats: <br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubem-pontomais&show_icons=true&theme=algolia&count_private=true)
