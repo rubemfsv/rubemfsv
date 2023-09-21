@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rubemfsv15@gmail.com)](mailto:rubemfsv15@gmail.com)
 
 
-👨‍💻 Software Engineer @ [Pontomais](https://www.pontomais.com.br/) <br>
+👨‍💻 Software Engineer @ [VR Gente](https://www.pontomais.com.br/) <br>
 💻 React.js, React Native, Angular, Ruby on Rails, NodeJS, Typescript <br>
 :heart: Clean Architecture and Clean Code <br>
 ⚡ Agile and Scrum <br> 
