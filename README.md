@@ -17,3 +17,4 @@
 Personal account github stats: <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rubemfsv&show_icons=true&theme=algolia&count_private=true)
 
+[![An image of @rubemfsv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rubemfsv)](https://holopin.io/@rubemfsv)
