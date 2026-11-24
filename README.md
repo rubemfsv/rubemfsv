@@ -9,7 +9,7 @@
 :heart: Clean Architecture and Clean Code <br>
 ⚡ Agile and Scrum <br> 
 📱 Module Federation and Microfrontend Enthusiast <br>
-🇧🇷 Maceió, Brazil <br>
+🇪🇸 Spain | 🌎 World <br>
 
  
 Github stats: <br>
